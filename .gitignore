@@ -2,5 +2,3 @@
 .gitignore
 .vscode/
 credentials.py
-__pycache__/
-dask-worker-space/
